@@ -3,6 +3,9 @@ package bbaggatta.c195.helper;
 import java.sql.Connection;
 import java.sql.DriverManager;
 
+/**
+ * Code from WGU code respository for database connection
+ */
 public abstract class JDBC {
 
     private static final String protocol = "jdbc";
